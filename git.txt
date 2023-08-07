@@ -18,4 +18,28 @@ Fluxo Git
     exemplo  git commit -m alteração da cor da página
 
 
+----------------------------------------------------------------------------------------------------------------
+
+Branchs
+
+Normalmente são dois ambientes: desenvolvimento e produção
+
+Mas, se trabalhamos em equipe, o mais correto é cada pessoa ter um terceiro ou mais ambientes (tarefas) onde criará e testará os 
+novos scripts antes de mandá-lo para o desenvolvimento
+
+----------------------------------------------------------------------------------------------------------------
+
+Comandos do git mais usados
+
+git status - mostra o andamento do projeto e das operações feitas pelo git
+
+git add . - adiciona todos os arquivos criados ao projeto
+
+git commit -m - adiciona novos arquivos criados ao projeto com uma mensagem
+
+git branch nomedobranch - cria novo ambiente
+
+git checkout nomedobranch - sai do ambiente atual e vai para o desejado
+
+
 
