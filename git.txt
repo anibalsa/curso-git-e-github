@@ -1,0 +1,21 @@
+O que é o Git?
+
+Sistema que grava as mudanças feitas em nossos arquivos ao longo do tempo por meio de "snapshots"
+
+Podemos voltar em uma determinada mudança - versão - a qualquer momento
+
+Permite a colaboração de vários colaborados no mesmo projeto
+
+----------------------------------------------------------------------------------------------------------------
+
+Fluxo Git
+
+- git init: inicializa o repositório Git (necessário)
+
+- git add.: prepara os arquivos pata serem commitados (é quando o git faz o snapshots)
+
+- git commit -m "mensagem" : faz o commit dos arquivos preparados
+    exemplo  git commit -m alteração da cor da página
+
+
+
