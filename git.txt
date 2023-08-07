@@ -19,7 +19,6 @@ Fluxo Git
 
 
 ----------------------------------------------------------------------------------------------------------------
-<<<<<<< HEAD
 
 Branchs
 
@@ -43,8 +42,6 @@ git branch nomedobranch - cria novo ambiente
 git checkout nomedobranch - sai do ambiente atual e vai para o desejado
 
 
-=======
->>>>>>> cadastro-cliente
 
 Branchs
 
