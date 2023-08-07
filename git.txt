@@ -19,6 +19,7 @@ Fluxo Git
 
 
 ----------------------------------------------------------------------------------------------------------------
+<<<<<<< HEAD
 
 Branchs
 
@@ -42,4 +43,12 @@ git branch nomedobranch - cria novo ambiente
 git checkout nomedobranch - sai do ambiente atual e vai para o desejado
 
 
+=======
+>>>>>>> cadastro-cliente
 
+Branchs
+
+Normalmente são dois ambientes: desenvolvimento e produção
+
+Mas, se trabalhamos em equipe, o mais correto é cada pessoa ter um terceiro ambiente (tarefas) onde criará e testará os 
+novos scripts antes de mandá-lo para o desenvolvimento
