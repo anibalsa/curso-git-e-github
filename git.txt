@@ -18,4 +18,11 @@ Fluxo Git
     exemplo  git commit -m alteração da cor da página
 
 
+----------------------------------------------------------------------------------------------------------------
 
+Branchs
+
+Normalmente são dois ambientes: desenvolvimento e produção
+
+Mas, se trabalhamos em equipe, o mais correto é cada pessoa ter um terceiro ambiente (tarefas) onde criará e testará os 
+novos scripts antes de mandá-lo para o desenvolvimento
